@@ -8,6 +8,8 @@
 - GraphQL
 - Apollo
 - Zod
+- Vitest
+- Github Actions
 
 ## Requirements
 
