@@ -48,6 +48,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Integrate Sentry for monitoring errors.
 - Create a Docker image for testing or deployment.
 - Observability with Prometheus and Grafana.
+- Create a pipeline to use Dependabot.
 
 ## Concepts
 
